@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.crud{
+	height: 80vh;
+	width: 60vw;
+	margin-top: 20vh;
+	margin-right: 10vw;
+}
+.container-crud{
+	height: 100vh;
+	width: 100vw;
+	display:flex;
+	align-items: center;
+    justify-content:space-between;
+}
+.nav-crud{
+	height:100vh;
+	padding-top: 20vh;
+	width: 15vw;
+	display:flex;
+	justify-content: center;
+	background-color:  blueviolet;
+	font-size: 1.9rem;
+	color:white;
+}
+
+
+.nav-crud ul{
+	list-style: none;	
+}
+.nav-crud ul li{
+	margin-bottom: 50px;
+	cursor:pointer;
+	font-size: 2rem;
+}
+
